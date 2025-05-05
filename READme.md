@@ -124,13 +124,13 @@ else:
 ## Пример веб-интерфейса
 
 ### Главная страница
-![Главная страница](screenshots/main_page.png)
+![Главная страница](screenshots/web_interface_1.png)
 
 ### Обработка изображения
-![Обработка изображения](screenshots/image_processing.png)
+![Обработка изображения](screenshots/web_interface_image.png)
 
 ### Статистика
-![Статистика](screenshots/statistics.png)
+![Статистика](screenshots/web_interface_stats.png)
 
 ## Пример использования
 
@@ -139,7 +139,7 @@ else:
 ![Исходное изображение](screenshots/weapon_2.png)
 
 Результат обработки:
-![Результат обработки](screenshots/weapon_2_proc.png)
+![Результат обработки](screenshots/weapon_2_proc.jpg)
 
 ### Пример 2: Обработка видео
 Кадр из исходного видео:
